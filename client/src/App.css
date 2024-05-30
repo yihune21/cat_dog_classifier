@@ -1,0 +1,39 @@
+.image-uploader-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: 500px; /* Adjust width as needed */
+  margin: 0 auto;
+}
+
+.upload-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.preview-section {
+  width: 300px; /* Adjust width as needed */
+}
+
+.input {
+  display: none;
+}
+
+.label {
+  cursor: pointer;
+  padding: 10px 20px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background-color: #f0f0f0;
+}
+
+.label:hover {
+  background-color: #ddd;
+}
+
+.img {
+  max-width: 100%;
+  max-height: 300px; /* Adjust height as needed */
+}
