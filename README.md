@@ -18,5 +18,5 @@ to build this project we used the following tech stacks:
 
 
 
-Developed by **SN4Y** team.
+Developed by **S4Y** team.
     
