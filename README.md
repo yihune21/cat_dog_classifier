@@ -1,14 +1,19 @@
-# Cat-Dog classifier <br>
-<br>
-this project intended to calssify images as cat and dog. <br>
-to build this project we used the following tech stacks: <br>
-  **for model training** <br>
-    -Python <br>
-    -Tensorflow keras <br>
-    -Convolutional neural networks(CNNs) <br>
-  **for model deployment** <br>
-     -React for frontend <br>
-     -Flask for backend <br>
+# Cat-Dog classifier 
+
+this project intended to calssify images as cat and dog.
+
+to build this project we used the following tech stacks: 
+
+  **for model training** 
+  
+    -Python 
+    -Tensorflow keras
+    -Convolutional neural networks(CNNs) 
+    
+  **for model deployment** 
+  
+     -React for frontend 
+     -Flask for backend
 
 
 
